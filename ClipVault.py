@@ -17,7 +17,7 @@ import re
 import os
 
 # Define o ícone da janela com um PNG em vez de ICO
-Window.set_icon("C:/meusProgramas/BaixadorYoutube/ClipVault/assets/icon.png")
+Window.set_icon("C:/ClipVault/assets/icon.png")
 
 KV = '''
 ScreenManager:
