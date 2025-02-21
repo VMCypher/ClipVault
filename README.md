@@ -44,7 +44,7 @@ To create the **installer** using Inno Setup, follow these steps:
 2. Load the `ClipVault.iss` script.
 3. Compile to generate `ClipVault_Setup.exe`.
 
-### 🎨 Main Interface
+### 🎨 Interface
 ![ClipVault Interface](https://github.com/VMCypher/ClipVault/blob/main/screenshot/interface.png)
 
 
