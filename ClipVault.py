@@ -63,7 +63,7 @@ ScreenManager:
             height: dp(48)
 
             Image:
-                source: "C:/meusProgramas/BaixadorYoutube/ClipVault/assets/play.png"
+                source: "C:/ClipVault/assets/play.png"
                 size_hint: None, None
                 size: dp(48), dp(48)
 
