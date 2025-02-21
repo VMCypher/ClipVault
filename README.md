@@ -46,7 +46,7 @@ To create the **installer** using Inno Setup, follow these steps:
 4. ## 🖼 Screenshots
 
 ### 🎨 Main Interface
-![ClipVault Interface](screenshots/interface.png)
+![ClipVault Interface](ClipVault/screenshot/interface.png)
 
 
 ## 🤝 Contributing
