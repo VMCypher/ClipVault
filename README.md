@@ -50,7 +50,7 @@ To create the **installer** using Inno Setup, follow these steps:
 
 ## 🤝 Contributing
 If you want to contribute with improvements, open an **issue** or submit a **pull request**! 
-![Discord](https://img.shields.io/badge/Discord-._victor4_.-7289DA?style=for-the-badge&logo=discord)
+![Discord](https://img.shields.io/badge/Discord-vmcypher-7289DA?style=for-the-badge&logo=discord)
 
 ## 📢 Follow and contribute on GitHub!
 🔗 [https://github.com/VMCypher/ClipVault](https://github.com/VMCypher/ClipVault)
