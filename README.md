@@ -28,9 +28,26 @@ Download the latest version of **ClipVault** from the [Releases](https://github.
 2. Run the installer and follow the instructions.
 3. After installation, open **ClipVault** and start downloading your videos!
 
+## 🛠 Creating Executables
+To generate the standalone `.exe` file, use the following commands:
+
+```sh
+# Generate a single-file executable
+pyinstaller --noconsole --windowed --onefile --icon="assets/icon.ico" --hidden-import=kivymd ClipVault.py
+
+# Generate an executable with dependencies in a separate folder
+pyinstaller --noconsole --windowed --icon="assets/icon.ico" --hidden-import=kivymd ClipVault.py
+```
+
+To create the **installer** using Inno Setup, follow these steps:
+1. Open **Inno Setup Compiler**.
+2. Load the `ClipVault.iss` script.
+3. Compile to generate `ClipVault_Setup.exe`.
+
 ## 🤝 Contributing
 If you want to contribute with improvements, open an **issue** or submit a **pull request**! 
 
 ## 📢 Follow and contribute on GitHub!
-🔗 [https://github.com/your-username/ClipVault](https://github.com/VMCypher/ClipVault)
+🔗 [https://github.com/VMCypher/ClipVault](https://github.com/VMCypher/ClipVault)
+
 
